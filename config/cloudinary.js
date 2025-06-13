@@ -18,3 +18,4 @@ try {
 }
 
 export default uploadOnCloudinary
+// export { cloudinary, uploadOnCloudinary }
